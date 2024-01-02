@@ -64,6 +64,9 @@
       <header class="header" itemscope itemtype="http://schema.org/WPHeader"><div class="site-brand-container">
   <div class="site-nav-toggle">
     <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
     </div>
   </div>
 
@@ -87,7 +90,7 @@
 
 
 <nav class="site-nav">
-  <ul class="main-menu menu">
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li>
       <li class="menu-item menu-item-search">
         <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
         </a>
@@ -147,7 +150,7 @@
     <img class="site-author-image" itemprop="image" alt="若宇"
       src="/uploads/avtpic.png">
   <p class="site-author-name" itemprop="name">若宇</p>
-  <div class="site-description" itemprop="description">随便写写，大概是作为写作的初稿记录存在，也许二改后有在其它平台公开的可能。版权归作者所属，禁止转载。</div>
+  <div class="site-description" itemprop="description">随便写写，大概是作为初稿的记录存在，也许二改后有在其它平台公开的可能。版权归作者所属，禁止转载。</div>
 </div>
 <div class="site-state-wrap animated">
   <nav class="site-state">
@@ -195,7 +198,7 @@
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
       <meta itemprop="name" content="若宇的平凡文摘">
-      <meta itemprop="description" content="随便写写，大概是作为写作的初稿记录存在，也许二改后有在其它平台公开的可能。版权归作者所属，禁止转载。">
+      <meta itemprop="description" content="随便写写，大概是作为初稿的记录存在，也许二改后有在其它平台公开的可能。版权归作者所属，禁止转载。">
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
@@ -226,12 +229,12 @@
     </span>
 
   
-    <span id="/2023/12/31/hello-world/" class="post-meta-item leancloud_visitors" data-flag-title="Hello World" title="阅读次数">
+    <span class="post-meta-item" title="阅读次数" id="busuanzi_container_page_pv">
       <span class="post-meta-item-icon">
         <i class="far fa-eye"></i>
       </span>
       <span class="post-meta-item-text">阅读次数：</span>
-      <span class="leancloud-visitors-count"></span>
+      <span id="busuanzi_value_page_pv"></span>
     </span>
     <span class="post-meta-break"></span>
     <span class="post-meta-item" title="本文字数">
@@ -318,6 +321,24 @@
     <span title="站点阅读时长">1 分钟</span>
   </span>
 </div>
+<div class="busuanzi-count">
+    <span class="post-meta-item" id="busuanzi_container_site_uv">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-user"></i>
+      </span>
+      <span class="site-uv" title="总访客量">
+        <span id="busuanzi_value_site_uv"></span>
+      </span>
+    </span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-eye"></i>
+      </span>
+      <span class="site-pv" title="总访问量">
+        <span id="busuanzi_value_site_pv"></span>
+      </span>
+    </span>
+</div>
 
     </div>
   </footer>
@@ -358,10 +379,9 @@
 
 
   
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
 
-  <script class="next-config" data-name="leancloud_visitors" type="application/json">{"enable":true,"app_id":"V8fw9yzn7OFCK0bQiGGa1QIc-MdYXbMMI","app_key":"xLDscgJPUPYA6eEc8Z3vDEzi","server_url":null,"security":true}</script>
-  <script src="/js/third-party/statistics/lean-analytics.js"></script>
 
 
 
