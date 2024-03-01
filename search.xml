@@ -1,29 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2023/12/31/hello-world/</url>
-    <content><![CDATA[<p><font face="微软雅黑" size=4>这是由我构建这个网页的工具（Hexo）生成的第一个文档，跟学写代码的时候一样，默认都是 Hello World。因此我也不对它作更多的修改了。这是来自2023年最后一天的记录呢</font></p>
-<span id="more"></span>
-
-<hr>
-<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-<hr>
-]]></content>
-  </entry>
-  <entry>
     <title>算是2023的年度总结</title>
     <url>/2024/01/03/review-2023/</url>
     <content><![CDATA[<h2 id="普普通通的总结"><a href="#普普通通的总结" class="headerlink" title="普普通通的总结"></a>普普通通的总结</h2><p>同很多人说的那样，过去的时间或许是最糟糕的时间，将要迎来的，是最好的未来。  </p>
@@ -69,6 +46,69 @@
 <p>看着似乎有2份文档日期是2023，但2篇都没有完成，时间无法逆流而上，如果我再去更新，那么，过往的印记被覆盖之后，时间洗刷的岸边，没有一颗宝石镌刻着2023的字眼。它是沙砾，是灰尘，随着风，2023飘远了，再不会来。</p>
 <p>在2023最后一天，跨年夜里，我一个人留在我们的机房，没有什么孤独与否，心里挺平静的，久违地刷一刷朋友圈，在我点赞的时候，不知哪个角落呐喊倒数的人们，传遍了欢呼与喜悦。</p>
 <p>我抬头，时间已是2024。</p>
+]]></content>
+      <categories>
+        <category>日常</category>
+      </categories>
+      <tags>
+        <tag>回顾</tag>
+        <tag>记事</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2023/12/31/hello-world/</url>
+    <content><![CDATA[<p><font face="微软雅黑" size=4>这是由我构建这个网页的工具（Hexo）生成的第一个文档，跟学写代码的时候一样，默认都是 Hello World。因此我也不对它作更多的修改了。这是来自2023年最后一天的记录呢</font></p>
+<span id="more"></span>
+
+<hr>
+<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<hr>
+]]></content>
+  </entry>
+  <entry>
+    <title>各种事情的前1/6年</title>
+    <url>/2024/02/29/review-2024-02/</url>
+    <content><![CDATA[<h2 id="梳理一下时间线"><a href="#梳理一下时间线" class="headerlink" title="梳理一下时间线"></a>梳理一下时间线</h2><p>本来这个网站是为了给自己做一下连载小说的“催更”，结果因为各种事情导致一事无成又过俩月，新年算是给自己一个借口吧，不过马上三月份了，再拖下去下次可能要到半年总结了。</p>
+<span id="more"></span>
+
+<p>光是打开<strong>vscode</strong>就能发现，终端里的命令记录又多了几十条，和<strong>hexo</strong>毫无关系的那种。1月中的时候，算是一个项目的开发告一段落，我们迎来了组里的大神——在英国读博的一位师兄的回归，那几天算是再一次增长了自己在程序方面为数不多的见识，顺便把组里后续的开发任务都对齐了一下，配了个环境，累的。</p>
+<p>然后是断断续续的开发和经常性的摸鱼偷懒，以及在一月末的时候，开始准备组里的年终总结会。所以一月中下旬干什么了呢？大概是还在工作着，但是心里已经想要放假了。于是欠下了一个代码的债，现在还在紧张地往回还账——虽然，这一切都是我的主观选择。</p>
+<p>紧接着就是发生了很多事情的二月，在家里过年，以及月底回校。</p>
+<h2 id="关于二月初"><a href="#关于二月初" class="headerlink" title="关于二月初"></a>关于二月初</h2><p>二月二日是年终总结，之后是组里的聚餐，虽然算是一波三折，到很晚我才吃完饭，不过总结就是玩得很开心。在大通铺上睡觉本来不应该是那样一个体验，结果却因为床铺的床板硬得要死而整夜难眠，伴随着一帘之隔的外面是打麻将的声音。</p>
+<p>入夜靠近天明的时候，感觉到越来越冷，醒来才知道，在持续多日冷空气影响下，晚上的冻雨终于还是把武汉这座城市“冰封”了。早晨八点多，我们被来收房的人无情地叫醒赶出了轰趴屋。几个同伴还拖着行李箱，我们走在结冰的路面上，天空下着冻雨，冷风飕飕。吃早饭的时候，好心的阿姨把我们几个人让进了她的小店里面，我们散下了瓜子作为“回报”。</p>
+<p>然后是分道扬镳。我去了光谷会展中心见朋友，更多的大家开始踏上归家的路程。</p>
+<p>从会展出来以后，我在寻找吃东西的路上摔了一跤，踩在了阶梯的那层透明却又坚硬的冰上，没有大碍。</p>
+<p>直到晚上回到学校，似乎已经筋疲力尽，不知道是玩的，还是冻的。我拍了几张冻雨给树枝挂上冰棱的照片，在宿舍里蜷缩补充昨日几乎一夜未眠的安睡。</p>
+<p>醒来的第二天，温度让我感觉到不同平常，往窗外望去，冻雨终于结成了冰凝成了雪花落下，武汉又下雪了，还是一场大雪。</p>
+<p>我的时间不算很充裕，但想着来得及；于是我上了宿舍的天台，拍了几张照片。然后拖着行李箱，在雪地里一边拍照一边行走，只恨我没有更早起，没有更多的时间，没有更好的设备，记录一下这许久未见的雪。</p>
+<p><img src="/../uploads/pics/review-2024.02-join.jpg" alt="pic1" title="尽管雪景很美，但冻雨和大雪对于树木来说却是灾难性的，甚至对人也是"></p>
+<h2 id="又一次的赶车记"><a href="#又一次的赶车记" class="headerlink" title="又一次的赶车记"></a>又一次的赶车记</h2><p>在武汉站，各种的列车延误让我真正体验到了春运的“魅力”。我给自己预留了大约半个小时的换乘时间，结果上车前，列车已经晚点了22分钟。望着窗外的大雪，想象底下那一层冰，以及高铁线路上的冰棱，工作人员付出的努力是可以想象又难以想象。</p>
+<p>我没有什么可以做的事情。盯着改签的高铁票，没有。盯着长区间的，短区间中转的票，没有。眼看着列车预计晚点时间已经到达了我的换乘时间，更何况到达的广州南是始发站，始发站是不会等人的吧。</p>
+<p>我询问了列车上的乘务员小姐，她跟我说，不需要开具什么晚点证明，如果我赶不上了也别着急，去售票处找人工窗口想想办法。我不知道有多少人向她抱怨过这样的问题，天灾导致的连锁反应，可至少我只是询问晚点时间，她回答我的语气上充满着关切，事后来说，这就够了。</p>
+<p>越靠近广州越清楚的是，晚到的时间无可挽回。我不禁戏谑地笑说，难道我一直以来赶车的好运气就要在今天画上句号了吗？</p>
+<p>我在下车的时候还是要奋力一搏。一般来说，中间的车厢出口不会靠近换乘地，因此要去靠近两侧的车厢门。选择好之后，我提前拎着行李占据了出口的一侧。巧合的是，进站的风景说，开门的是对侧。我直接转移到了旁边清洁阿姨占据的那个车厢出口，跟阿姨说我要赶换乘，紧接着车停了，我看见门外，是一条通往楼上的阶梯！阿姨给我让开了位置，门一打开，我一个箭步窜了出去，找站台上指挥的值班员确认了上去可以换乘，我就开始了百米冲刺的飞奔……</p>
+<p>最终有惊无险地回到家，平平安安地过年。</p>
+<h2 id="说二月做了什么"><a href="#说二月做了什么" class="headerlink" title="说二月做了什么"></a>说二月做了什么</h2><p>俗语有这么一句：父母在，不远游。</p>
+<p>但是我在学校，离家一千公里，好不容易回来，最重要是珍惜每一分和家人在一起的时间。多给家人炒个菜，陪同一起看个电视，说说笑笑吃吃耍耍。你不知道以后还有多长时间陪伴他们。</p>
+<p>尽管过个年到处去，农村的事礼也多，但陪伴就是最长久的幸福。</p>
+<p>二月与学习无缘。事情堆到现在需要我去一件件完成，需要我从零开始刷题赶上那些跑在前面的人，可如果再来一次，我依然愿意陪着家里人，甚至再选一次，陪伴更久一点。</p>
+<p>过完年回来之前，武汉又下雪了。一场大雪送别离开，一场大雪迎接归来。回来跟离开的时候似乎没有什么区别。似乎半个多月的时间被这两轮冻雨两场大雪停住了。离开前的工作依旧堆在那里，等着要来完成他的人。</p>
+<p>触摸一下键盘，如同积雪消融一样，化开了冰封的时间。</p>
+<p>我需要开始工作，就像天边的阳光穿透了云层。</p>
+<p><img src="/../uploads/pics/review-2024.02-sunshine.jpg" alt="pic2" title="阳光照在了雪地上"></p>
 ]]></content>
       <categories>
         <category>日常</category>
